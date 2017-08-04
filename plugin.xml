@@ -9,8 +9,8 @@
     <description>Cordova Plugin for Android to access intent</description>
     <license>MIT</license>
 
-    <repo>https://gitbucket.filesend.to/gitbucket/git/app/intent.git</repo>
-    <issue>https://gitbucket.filesend.to/gitbucket/git/app/intent.git/issues</issue>
+    <repo>https://github.com/toshi720619n/intent</repo>
+    <issue>https://github.com/toshi720619n/intent/issues</issue>
 
     <keywords>cordova,intent,share,send,android</keywords>
 
